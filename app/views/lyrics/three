@@ -1,0 +1,2 @@
+<h1>Some people, started singing it not knowing what it was</h1>
+<%= link_to "P4", song3_path %>

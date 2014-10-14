@@ -1,0 +1,2 @@
+<h1>And they'll continue singing it forever just because...</h1>
+<%= link_to "P1", songhome_path %>
